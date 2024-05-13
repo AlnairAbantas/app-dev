@@ -1,8 +1,8 @@
 # Ghost Fighter (YuYu Hakusho)
-![ghost!](GhostFighter1.jpg) 
+![FrontPage!](GhostFighter1.jpg) 
 
 ## The Main Character of Ghost Fighter (YuYu Hakusho) is Yusuke Urameshi
-
+![Character!]()
 ### Description
 
 Ghost Fighter, known as YuYu Hakusho, comprises a series of manga written and illustrated by Yoshihiro Togashi. The story sets off with the life of Yusuke Urameshi, a 14-year-old punk who dies in an accident saving the life of a little boy.
