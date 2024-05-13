@@ -1,2 +1,2 @@
 # Ghost Fighter
-![ghost!]()
+![ghost!](GhostFighter1.jpg)
