@@ -15,6 +15,8 @@ The series is known for its blend of action, comedy, and drama, as well as its c
 
 ## The Character of Ghost Fighter (YuYu Hakusho)
 ![Protagonist!](Protagonist.jpg)
+![Protagonist!](Antagonist.jpg)
+
 ### Main Characters
 
 Yusuke Urameshi: The main protagonist of the series, Yusuke is a delinquent who becomes a Spirit Detective after his death.
@@ -38,7 +40,7 @@ Humans: Atsuko Urameshi, Shizuru Kuwabara, Asato Kido, Yuu Kaito, Mitsunari Yana
 Demons: Rinku, Chū, Touya, Jin, Shishiwakamaru, Suzuki
 
 ### Antagonists
-![Protagonist!](Antagonist.jpg)
+
 
 Special Chapter: Yatsude
 Spirit Detective Saga: Gouki, Rando, Half Breed Demons, Gonzo Tarukane, Hirue
