@@ -72,8 +72,9 @@ Spirit Perception: Yusuke can sense and see spirits and other supernatural pheno
 Aura Perception: Yusuke can see the aura of living beings, which can reveal information about their health, emotions, and power levels.
 Demonic Transformation: Yusuke can transform into a more powerful demonic form, with horns, claws, and enhanced abilities.
 Spirit Fusion: Yusuke can fuse his spirit with other beings to create a more powerful entity. He has done this with Botan, Kuwabara, and Kurama.
-These are just some of Yusuke's powers in Ghost Fighter. His abilities evolve and grow throughout the series, making him a formidable and dynamic protagonist.
 
+
+These are just some of Yusuke's powers in Ghost Fighter. His abilities evolve and grow throughout the series, making him a formidable and dynamic protagonist.
 
 
 ## The Creator of Ghost Fighter (YuYu Hakusho)
