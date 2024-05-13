@@ -26,6 +26,8 @@ Kurama: A powerful demon who takes the form of a human boy, Kurama is a member o
 Hiei: A powerful fire demon, Hiei is a member of Yusuke's team and a formidable fighter.
 
 ### Secondary Characters
+|Charaters|
+|---------|
 Botan: A guide in the Spirit World, Botan helps Yusuke in his missions as a Spirit Detective.
 Koenma: The son of the ruler of the Spirit World, Koenma hires Yusuke as a Spirit Detective.
 Genkai: A powerful martial artist and former teacher of Yusuke, Genkai becomes a mentor to Yusuke and his friends.
@@ -37,10 +39,14 @@ Pu: A small, powerful creature who becomes a member of Yusuke's team.
 ![Protagonist!](Antagonist.jpg)
 
 ### Allies
+|Charaters|
+|---------|
 Humans: Atsuko Urameshi, Shizuru Kuwabara, Asato Kido, Yuu Kaito, Mitsunari Yanagisawa, Murota, Kiyoshi Mitarai, Kuroko Sato, En (M1), Ryo (M2), Ryo (M3), Kai (M3)
 Demons: Rinku, Chū, Touya, Jin, Shishiwakamaru, Suzuki
 
 ### Antagonists
+|Charaters|
+|---------|
 Special Chapter: Yatsude
 Spirit Detective Saga: Gouki, Rando, Half Breed Demons, Gonzo Tarukane, Hirue
 The Four Saint Beasts: Suzaku, Seiryu, Byakko, Genbu
@@ -51,10 +57,10 @@ The Four Saint Beasts: Suzaku, Seiryu, Byakko, Genbu
 
 Yusuke Urameshi, the main protagonist of Ghost Fighter (YuYu Hakusho), has several powers throughout the series. Here are some of his notable abilities:
 
+|All The Power|
+|-------------|
 Spirit Gun (Reigun): Yusuke's signature move, where he fires a blast of spirit energy from his finger. He can also fire multiple shots at once or charge up a more powerful shot.
-- 
 Spirit Shield (Reibu): Yusuke can create a shield of spirit energy to protect himself and others.
-
 Spirit Sword (Reiken): Yusuke can create a sword made of spirit energy, which he can use for close-range combat.
 Demonic Energy: After being revealed as a demon throwback, Yusuke gains access to demonic energy, which greatly enhances his physical abilities and allows him to use new techniques, such as:
 Demonic Fist: Yusuke can imbue his fist with demonic energy, increasing the power of his punches.
