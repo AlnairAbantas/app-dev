@@ -18,6 +18,8 @@ The series is known for its blend of action, comedy, and drama, as well as its c
 ![Protagonist!](Protagonist.jpg)
 
 ### Main Characters
+|Charaters|
+|---------|
 Yusuke Urameshi: The main protagonist of the series, Yusuke is a delinquent who becomes a Spirit Detective after his death.
 Kazuma Kuwabara: A delinquent and Yusuke's rival, Kuwabara later becomes a valuable ally in Yusuke's missions.
 Kurama: A powerful demon who takes the form of a human boy, Kurama is a member of Yusuke's team.
