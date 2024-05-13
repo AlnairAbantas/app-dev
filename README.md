@@ -1,8 +1,8 @@
 # Ghost Fighter (YuYu Hakusho)
-![FrontPage!](GhostFighter1.jpg) 
+![FrontPage!](GhostFighter2) 
 
 ## The Main Character of Ghost Fighter (YuYu Hakusho) is Yusuke Urameshi
-![Character!]()
+![Character!](GhostFighter1)
 ### Description
 
 Ghost Fighter, known as YuYu Hakusho, comprises a series of manga written and illustrated by Yoshihiro Togashi. The story sets off with the life of Yusuke Urameshi, a 14-year-old punk who dies in an accident saving the life of a little boy.
@@ -44,7 +44,7 @@ Spirit Detective Saga: Gouki, Rando, Half Breed Demons, Gonzo Tarukane, Hirue
 The Four Saint Beasts: Suzaku, Seiryu, Byakko, Genbu
 
 ## The Creator of Ghost Fighter (YuYu Hakusho)
-
+![Creator!](CreatorOfGhostFighter)
 The creator of Ghost Fighter (YuYu Hakusho) is Yoshihiro Togashi. He is a Japanese manga artist who has written and illustrated several popular manga series, including Hunter x Hunter and Level E.
 
 Ghost Fighter is one of Togashi's most successful works, and it has been adapted into several anime series, movies, and video games. The series follows the story of Yusuke Urameshi, a delinquent who becomes a Spirit Detective after his death. Along with his friends, Yusuke investigates supernatural occurrences and battles against demons, ghosts, and other supernatural beings.
