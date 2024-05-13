@@ -15,7 +15,6 @@ The series is known for its blend of action, comedy, and drama, as well as its c
 
 ## The Character of Ghost Fighter (YuYu Hakusho)
 ![Protagonist!](Protagonist.jpg)
-![Protagonist!](Antagonist.jpg)
 
 ### Main Characters
 
@@ -34,6 +33,7 @@ Yukina: A powerful ice demon and Kurama's love interest, Yukina is a member of Y
 Jorge Saotome: A former enemy of Yusuke, Jorge later becomes a member of Yusuke's team.
 Pu: A small, powerful creature who becomes a member of Yusuke's team.
 
+![Protagonist!](Antagonist.jpg)
 ### Allies
 
 Humans: Atsuko Urameshi, Shizuru Kuwabara, Asato Kido, Yuu Kaito, Mitsunari Yanagisawa, Murota, Kiyoshi Mitarai, Kuroko Sato, En (M1), Ryo (M2), Ryo (M3), Kai (M3)
